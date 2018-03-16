@@ -8,6 +8,17 @@ javascript: (function() {
 }());
 };
 
+bBlack.prototype.load = function () {
+
+};
+
+bBlack.prototype.unload = function () {}
+;
+
+bBlack.prototype.stop = function () {
+
+};
+
 bBlack.prototype.getName = function () {
     return "bBlack";
 };

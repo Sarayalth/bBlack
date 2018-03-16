@@ -170,13 +170,13 @@
 } */
 
 .maskProfile-MeBve8 {
-    mask: url('https://cdn.rawgit.com/Sarayalth/sort-of-a-blog/master/images/a.svg');
-	mask: url('https://cdn.rawgit.com/Sarayalth/sort-of-a-blog/master/images/a.svg');
+    mask: url('https://cdn.rawgit.com/Sarayalth/bBlack/master/SVGs/profileMask.svg');
+	mask: url('https://cdn.rawgit.com/Sarayalth/bBlack/master/SVGs/profileMask.svg');
 }
 .mask-2vyqAW {
-    -webkit-mask: url('https://cdn.rawgit.com/Sarayalth/sort-of-a-blog/master/images/a.svg');
+    -webkit-mask: url('https://cdn.rawgit.com/Sarayalth/bBlack/master/SVGs/profileMask.svg');
     -webkit-mask-size: 100%;
-    mask: url('https://cdn.rawgit.com/Sarayalth/sort-of-a-blog/master/images/a.svg');
+    mask: url('https://cdn.rawgit.com/Sarayalth/bBlack/master/SVGs/profileMask.svg');
     mask-size: 100%;
     mask-type: luminance;
 }
@@ -521,7 +521,7 @@
 }
 
 .uploadModal-2KN6Mm .inner-1-09ZV .file-XhJJS_ .icon-19bbE_.unknown-nN4W57 {
-	background-image: url(https://cdn.rawgit.com/Sarayalth/sort-of-a-blog/master/images/verdecito1.svg);
+	background-image: url(https://cdn.rawgit.com/Sarayalth/bBlack/master/SVGs/file1.svg);
 }
 
 .uploadModal-2KN6Mm .inner-1-09ZV .file-XhJJS_ .icon-19bbE_.image-sUU6Oh {
@@ -547,7 +547,7 @@
 }
 
 .icon-3cn2VC {
-	content: url(https://cdn.rawgit.com/Sarayalth/sort-of-a-blog/master/images/verdecito1.svg);
+	content: url(https://cdn.rawgit.com/Sarayalth/bBlack/master/SVGs/file1.svg);
 }
 
 .theme-dark .channel-members {
@@ -622,24 +622,24 @@
 	background-color: hsla(0, 85%, 20%, 1);
 }
 
-.uploadModalIn-14sS7w .uploadDropModal-BpFgz7 .inner-1-09ZV .icon-19bbE_.two-3djYgO {
-    background-image: url(https://cdn.rawgit.com/Sarayalth/sort-of-a-blog/master/images/2.svg);
+.uploadModalIn-14sS7w .uploadDropModal-BpFgz7 .inner-1-09ZV .icon-19bbE_.one-3Z3WUg {
+    background-image: url(https://cdn.rawgit.com/Sarayalth/bBlack/master/SVGs/1.svg);
 }
 
-.uploadModalIn-14sS7w .uploadDropModal-BpFgz7 .inner-1-09ZV .icon-19bbE_.one-3Z3WUg {
-    background-image: url(https://cdn.rawgit.com/Sarayalth/sort-of-a-blog/master/images/1.svg);
+.uploadModalIn-14sS7w .uploadDropModal-BpFgz7 .inner-1-09ZV .icon-19bbE_.two-3djYgO {
+    background-image: url(https://cdn.rawgit.com/Sarayalth/bBlack/master/SVGs/2.svg);
 }
 
 .uploadModalIn-14sS7w .uploadDropModal-BpFgz7 .inner-1-09ZV .icon-19bbE_.three-jJjLhh {
-    background-image: url(https://cdn.rawgit.com/Sarayalth/sort-of-a-blog/master/images/3.svg);
-}
-
-.uploadModal-2KN6Mm .inner-1-09ZV .file-XhJJS_ .icon-19bbE_.video-3Hq-vi {
-    background-image: url(https://cdn.rawgit.com/Sarayalth/sort-of-a-blog/master/images/5.svg);
+    background-image: url(https://cdn.rawgit.com/Sarayalth/bBlack/master/SVGs/3.svg);
 }
 
 .uploadModal-2KN6Mm .inner-1-09ZV .file-XhJJS_ .icon-19bbE_.archive-GnLESH {
-    background-image: url(https://cdn.rawgit.com/Sarayalth/sort-of-a-blog/master/images/4.svg);
+    background-image: url(https://cdn.rawgit.com/Sarayalth/bBlack/master/SVGs/4.svg);
+}
+
+.uploadModal-2KN6Mm .inner-1-09ZV .file-XhJJS_ .icon-19bbE_.video-3Hq-vi {
+    background-image: url(https://cdn.rawgit.com/Sarayalth/bBlack/master/SVGs/5.svg);
 }
 
 .progressBar-mI5LOq {
