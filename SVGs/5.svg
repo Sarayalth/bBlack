@@ -1,0 +1,43 @@
+<svg width="110px" height="140px" version="1.1" viewBox="0 0 110 140" xmlns="http://www.w3.org/2000/svg">
+ <title>icon-file-large-video</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <filter id="filter-1" x="-50%" y="-50%" width="200%" height="200%">
+   <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+   <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+   <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0"/>
+   <feMerge>
+    <feMergeNode in="shadowMatrixOuter1"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="filter-2" x="-50%" y="-50%" width="200%" height="200%">
+   <feOffset dx="-1" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+   <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+   <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0"/>
+   <feMerge>
+    <feMergeNode in="shadowMatrixOuter1"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="filter55" color-interpolation-filters="sRGB">
+   <feColorMatrix result="color1" type="hueRotate" values="180"/>
+   <feColorMatrix result="color2" values="-1 0 0 0 1 0 0 -1 0 1 0 -1 0 0 1 -0.21 -0.72 -0.07 1.93 0 "/>
+  </filter>
+ </defs>
+ <g fill="none" fill-rule="evenodd" filter="url(#filter55)">
+  <g transform="translate(-1029 -867)">
+   <g transform="translate(239 880)">
+    <g transform="translate(810)">
+     <path d="m0 6.9931c0-3.3099 2.6827-5.9931 5.9982-5.9931h44.348c4.5519 0 19.654 15.392 19.654 20.091v73.911c0 3.3122-2.6799 5.9973-5.9984 5.9973h-58.003c-3.3128 0-5.9984-2.6877-5.9984-5.9931v-88.014z" fill="#F4F6FC" filter="url(#filter-1)" stroke="#7289DA" stroke-width="2"/>
+     <path d="m12 1h2v100h-2v-100zm44 0h2v100h-2v-100zm-56 91h12v2h-12v-2zm58 0h12v2h-12v-2zm-58-12h12v2h-12v-2zm58 0h12v2h-12v-2zm-58-12h12v2h-12v-2zm58 0h12v2h-12v-2zm-58-12h12v2h-12v-2zm58 0h12v2h-12v-2zm-58-12h12v2h-12v-2zm58 0h12v2h-12v-2zm-58-12h12v2h-12v-2zm58 0h12v2h-12v-2zm-58-12h12v2h-12v-2zm58 0h12v2h-12v-2zm-58-12h12v2h-12v-2z" fill="#7289DA"/>
+     <g stroke-width="2">
+      <path d="m51 3.9971c0-3.3121 1.8947-4.1023 4.2418-1.7552l13.516 13.516c2.3427 2.3427 1.5552 4.2418-1.7552 4.2418h-13.002c-1.6576 0-3.0014-1.3431-3.0014-3.0014v-13.002z" fill="#F4F6FC" filter="url(#filter-2)" stroke="#7289DA"/>
+      <path d="m54 7v7.5024c0 1.3794 1.1097 2.4976 2.5 2.4976h2.5" stroke="#C9D2F0" stroke-opacity=".6"/>
+      <polygon transform="translate(34.952 51) rotate(90) translate(-34.952 -51)" points="34.952 39.952 44.952 59.952 24.952 59.952" fill="#F4F6FC" stroke="#7289DA"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
