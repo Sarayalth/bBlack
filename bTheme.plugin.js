@@ -1,34 +1,23 @@
-//META{"name":"bTheme"}*//
+//META{"name":"bBlack"}*//
 
 var testPlugin = function () {};
 
 testPlugin.prototype.start = function () {
 javascript: (function() {
-    $('head').append('<link rel="stylesheet" href="https://rawgit.com/Elitehunter47/NC-331-Themes/master/NC331-Musiqpad/B%26W/monochrome.css" type="text/css"/>');
+    $('head').append('<link rel="stylesheet" href="https://cdn.rawgit.com/Sarayalth/bBlack/master/bBlack.theme.css" type="text/css"/>');
 }());
 };
 
-testPlugin.prototype.load = function () {
-
-};
-
-testPlugin.prototype.unload = function () {}
-;
-
-testPlugin.prototype.stop = function () {
-
-};
-
 testPlugin.prototype.getName = function () {
-    return "bTheme";
+    return "bBlack";
 };
 
 testPlugin.prototype.getDescription = function () {
-    return "bTheme Installer";
+    return "bBlack is a REAL night mode for Discord";
 };
 
 testPlugin.prototype.getVersion = function () {
-    return "0.0.pingas";
+    return "0.0.¯\_(ツ)_/¯";
 };
 
 testPlugin.prototype.getAuthor = function () {
